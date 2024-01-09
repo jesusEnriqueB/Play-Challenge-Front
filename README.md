@@ -1,4 +1,4 @@
-# Playload-Challenge-Front
+# Play-Challenge-Front
 
 Use Node v20.10.0
 
@@ -15,9 +15,9 @@ Use Node v20.10.0
 
 https://playload-challenge-front.vercel.app/
 
-# Playload-Challenge BACK
+# Play-Challenge BACK
 
 Use Node v20.10.0
 
 Git url:
-https://github.com/jesusEnriqueB/Playload-Challenge-Back
+https://github.com/jesusEnriqueB/Play-Challenge-Back
